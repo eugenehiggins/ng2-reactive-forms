@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "license": "MIT",
   "angular-cli": {},
+    "description": "https://toddmotto.com/angular-2-forms-reactive",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",

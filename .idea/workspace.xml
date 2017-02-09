@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bd1c604-d10a-4338-9e7a-905697d6fba2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.component.spec.ts" afterPath="$PROJECT_DIR$/src/app/app.component.spec.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.module.ts" afterPath="$PROJECT_DIR$/src/app/app.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/signup-form/signup-form.component.spec.ts" afterPath="$PROJECT_DIR$/src/app/signup-form/signup-form.component.spec.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/signup-form/signup-form.component.ts" afterPath="$PROJECT_DIR$/src/app/signup-form/signup-form.component.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,44 +25,35 @@
       <file leaf-file-name="signup-form.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/signup-form/signup-form.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1005">
-              <caret line="67" column="49" lean-forward="true" selection-start-line="67" selection-start-column="49" selection-end-line="67" selection-end-column="49" />
+            <state relative-caret-position="342">
+              <caret line="65" column="45" lean-forward="false" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="45" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
-                <marker date="1486492257000" expanded="true" signature="284:2072" ph="..." />
-                <marker date="1486492257000" expanded="true" signature="304:512" ph="..." />
-                <marker date="1486492257000" expanded="true" signature="367:491" ph="..." />
-                <marker date="1486492257000" expanded="true" signature="530:702" ph="..." />
-                <marker date="1486492257000" expanded="true" signature="720:900" ph="..." />
-                <marker date="1486492257000" expanded="true" signature="955:1518" ph="..." />
-                <marker date="1486492257000" expanded="true" signature="979:1221" ph="..." />
-                <marker date="1486492257000" expanded="true" signature="1054:1196" ph="..." />
-                <marker date="1486492257000" expanded="true" signature="1245:1499" ph="..." />
-                <marker date="1486492257000" expanded="true" signature="1322:1474" ph="..." />
-                <marker date="1486492257000" expanded="true" signature="1536:1741" ph="..." />
-                <marker date="1486492257000" expanded="true" signature="1759:1979" ph="..." />
+                <marker date="1486579207000" expanded="true" signature="284:2060" ph="..." />
+                <marker date="1486579207000" expanded="true" signature="304:512" ph="..." />
+                <marker date="1486579207000" expanded="true" signature="367:491" ph="..." />
+                <marker date="1486579207000" expanded="true" signature="530:702" ph="..." />
+                <marker date="1486579207000" expanded="true" signature="720:900" ph="..." />
+                <marker date="1486579207000" expanded="true" signature="943:1506" ph="..." />
+                <marker date="1486579207000" expanded="true" signature="967:1209" ph="..." />
+                <marker date="1486579207000" expanded="true" signature="1042:1184" ph="..." />
+                <marker date="1486579207000" expanded="true" signature="1233:1487" ph="..." />
+                <marker date="1486579207000" expanded="true" signature="1310:1462" ph="..." />
+                <marker date="1486579207000" expanded="true" signature="1524:1729" ph="..." />
+                <marker date="1486579207000" expanded="true" signature="1747:1967" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
+      <file leaf-file-name="signup-form.component.spec.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app/signup-form/signup-form.component.spec.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <state relative-caret-position="101">
+              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
               <folding>
-                <element signature="e#0#58#0" expanded="true" />
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#40#113#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -68,11 +64,16 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>name=</find>
+      <find>formGroup</find>
+      <find>form</find>
     </findStrings>
     <replaceStrings>
       <replace>formControlName</replace>
       <replace>formControlName=</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/app</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -83,9 +84,12 @@
         <option value="$PROJECT_DIR$/.editorconfig" />
         <option value="$PROJECT_DIR$/src/app/signup.ts" />
         <option value="$PROJECT_DIR$/angular-cli.json" />
-        <option value="$PROJECT_DIR$/src/app/app.component.html" />
-        <option value="$PROJECT_DIR$/src/app/signup-form/signup-form.component.ts" />
+        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/src/app/app.component.spec.ts" />
+        <option value="$PROJECT_DIR$/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/src/app/signup-form/signup-form.component.spec.ts" />
+        <option value="$PROJECT_DIR$/src/app/signup-form/signup-form.component.ts" />
       </list>
     </option>
   </component>
@@ -99,8 +103,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1293" />
-    <option name="y" value="254" />
+    <option name="x" value="1263" />
+    <option name="y" value="167" />
     <option name="width" value="1223" />
     <option name="height" value="1076" />
   </component>
@@ -194,10 +198,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v7.0.0/bin/node" />
-    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="javascript.nodejs.core.library.configured.version" value="7.0.0" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="typescript-compiler-editor-notification" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -269,6 +280,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="9bd1c604-d10a-4338-9e7a-905697d6fba2" name="Default" comment="" />
@@ -276,15 +290,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1486487209692</updated>
-      <workItem from="1486487211302" duration="3794000" />
+      <workItem from="1486487211302" duration="15126000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3794000" />
+    <option name="totallyTimeSpent" value="15126000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1293" y="254" width="1223" height="1076" extended-state="0" />
+    <frame x="1263" y="167" width="1223" height="1076" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -292,7 +306,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -334,10 +348,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/angular-cli.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="228">
+          <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -350,11 +364,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angular-cli.json">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        <state relative-caret-position="248">
+          <caret line="29" column="34" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="34" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/signup-form/signup-form.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="27" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+            <marker date="1486573321000" expanded="true" signature="615:618" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#41#96#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -366,34 +418,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/signup-form/signup-form.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="67" column="49" lean-forward="true" selection-start-line="67" selection-start-column="49" selection-end-line="67" selection-end-column="49" />
+        <state relative-caret-position="342">
+          <caret line="65" column="45" lean-forward="false" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="45" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
-            <marker date="1486492257000" expanded="true" signature="284:2072" ph="..." />
-            <marker date="1486492257000" expanded="true" signature="304:512" ph="..." />
-            <marker date="1486492257000" expanded="true" signature="367:491" ph="..." />
-            <marker date="1486492257000" expanded="true" signature="530:702" ph="..." />
-            <marker date="1486492257000" expanded="true" signature="720:900" ph="..." />
-            <marker date="1486492257000" expanded="true" signature="955:1518" ph="..." />
-            <marker date="1486492257000" expanded="true" signature="979:1221" ph="..." />
-            <marker date="1486492257000" expanded="true" signature="1054:1196" ph="..." />
-            <marker date="1486492257000" expanded="true" signature="1245:1499" ph="..." />
-            <marker date="1486492257000" expanded="true" signature="1322:1474" ph="..." />
-            <marker date="1486492257000" expanded="true" signature="1536:1741" ph="..." />
-            <marker date="1486492257000" expanded="true" signature="1759:1979" ph="..." />
+            <marker date="1486579207000" expanded="true" signature="284:2060" ph="..." />
+            <marker date="1486579207000" expanded="true" signature="304:512" ph="..." />
+            <marker date="1486579207000" expanded="true" signature="367:491" ph="..." />
+            <marker date="1486579207000" expanded="true" signature="530:702" ph="..." />
+            <marker date="1486579207000" expanded="true" signature="720:900" ph="..." />
+            <marker date="1486579207000" expanded="true" signature="943:1506" ph="..." />
+            <marker date="1486579207000" expanded="true" signature="967:1209" ph="..." />
+            <marker date="1486579207000" expanded="true" signature="1042:1184" ph="..." />
+            <marker date="1486579207000" expanded="true" signature="1233:1487" ph="..." />
+            <marker date="1486579207000" expanded="true" signature="1310:1462" ph="..." />
+            <marker date="1486579207000" expanded="true" signature="1524:1729" ph="..." />
+            <marker date="1486579207000" expanded="true" signature="1747:1967" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
+    <entry file="file://$PROJECT_DIR$/src/app/signup-form/signup-form.component.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        <state relative-caret-position="101">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
           <folding>
-            <element signature="e#0#58#0" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#40#113#0" expanded="true" />
           </folding>
         </state>
       </provider>

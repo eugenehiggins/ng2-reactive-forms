@@ -23,7 +23,7 @@ import { User } from '../signup';
                 *ngIf="user.get('name').hasError('minlength') && user.get('name').touched">
                 Minimum of 2 characters
             </div>
-            
+
             <div formGroupName="account">
                 <label>
                     <span>Email address</span>
@@ -65,13 +65,13 @@ export class SignupFormComponent implements OnInit {
         this.user = this.fb.group({
             name: ['', [Validators.required, Validators.minLength(2)]],
             account: this.fb.group({
-                email: ['', Validators.required],
+                email: ['', Validators.required, Validators.pattern("[^ @]*@[^ @]*")],
                 confirm: ['', Validators.required]
             })
         })
     }
 
-    onSubmit({ value, valid }: { value: User, valid: boolean}){
+    onSubmit({ value, valid }: { value: User, valid: boolean }) {
         console.log(value, valid);
     }
 
